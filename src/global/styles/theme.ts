@@ -2,14 +2,14 @@ export const theme = {
   colors: {
     primary: '#E51C44',
 
-    secundary100: '#4B0082',
-    secundary90: '#8A2BE2',
-    secundary80: '#9400D3',
-    secundary70: '#9932CC',
-    secundary60: '#A020F0',
-    secundary50: '#BA55D3',
-    secundary40: '#8B008B',
-    secundary30: '#FF00FF',
+    secondary100: '#4B0082',
+    secondary90: '#8A2BE2',
+    secondary80: '#9400D3',
+    secondary70: '#9932CC',
+    secondary60: '#A020F0',
+    secondary50: '#BA55D3',
+    secondary40: '#8B008B',
+    secondary30: '#FF00FF',
 
     overley: 'rgba(0,0,0,0.7)',
     highlight: '#ABB1CC',
